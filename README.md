@@ -315,7 +315,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 - **Issues**: Use GitHub Issues for bug reports
 - **Discussions**: Share tips and ask questions in Discussions
-- **DCS Forums**: [Link to your thread]
 
 ---
 
